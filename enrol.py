@@ -26,7 +26,7 @@ def uniqid():
 thisIsUserId = uniqid()
 # name = raw_input("What is your name? ")
 # type(name)
-data = {"name": "name this"}
+data = {"name": "Test Name"}
 db.child("users").child(thisIsUserId).set(data)
 
 FORMAT = pyaudio.paInt16
