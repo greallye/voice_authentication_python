@@ -1,7 +1,6 @@
 # voice_authentication_python
-Simple voice authentication using matplotlib, dtw, pyaudio and google firebase(work in progress).
-This uses matplotlib.pyplot to plot the two audio files spectrum the using dtw libary which 
-stands for Dynamic Time Warping. This then caculates the distance between the two plots of the audio files.
+Simple voice authentication using matplotlib, dtw, pyaudio and google firebase(work in progress). 
+This uses matplotlib.pyplot to plot the two audio files spectrum the using dtw library which stands for Dynamic Time Warping. This then calculates the distance between the two plots of the audio files.
 
 
 ## Setup
